@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello there!
+=======
+pavithra is mental girl
+>>>>>>> feature2
